@@ -1,0 +1,54 @@
+.body{
+  width: 60px;
+  height: 80px;
+ /* background: rgba(162, 152, 117, 1); */
+   top: 120px;
+   left: 57px;
+   
+}
+.container{
+  width: 1271.01px;
+  height: 573px;
+  left: 176px;
+  top: 252.83px;
+   border: 0.86px;  
+ /* line-height: 65.8px;
+ font-weight: 700;
+ size: 40px;
+ letter-spacing: 2.5%;
+ margin-top: 200px; */ 
+}
+.header{
+  background-color: #A29875;
+  width: 1920px;
+  height: 134px;
+}
+.hero{
+  width: 496px;
+  height: 189px;
+  top: 316px;
+  left: 176px;
+  size: 40px;
+  font: bold;
+  
+}
+.image{
+  height: 462px;
+  width: 647px;
+  top: 198px;
+  bottom: right 150px;
+  margin-left: 250px;
+}
+.button{
+  background-color: #A29875;
+   width: fixed(288px);
+   height:Hug(58px);
+   top: 730px;
+   left: 176px;
+   border-radius: 10px;
+   padding: 10px;
+   gap: 10px;
+   text-align: center;
+   margin-left: 120px;
+   color: #FFFFFF;
+}
